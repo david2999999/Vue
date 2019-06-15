@@ -1,14 +1,4 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## VueJs
+Vue 2.0 was released in 2016 and has been contending in a race with ReactJS. It is proved to be faster and leaner, comparing to ReactJs and Angular 2.0. In addition, Its learning curve is relatively shorter than ReactJs and has one of the most outstanding documentation out there; you could end up falling in love with it before you finish reading the documentation.
 
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+It allows structural flexibility and makes reuse of components easy in your application. In short, it does not get on your way. You have the power to write and structure your application however you want it. This freakish feature makes it suitable for building big and highly scalable web applications.
